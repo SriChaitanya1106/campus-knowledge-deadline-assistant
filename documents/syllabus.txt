@@ -1,0 +1,6 @@
+Python Programming
+Unit 1: Variables, data types, and operators.
+Unit 2: Conditional statements and loops.
+Unit 3: Functions and modules.
+Unit 4: Object-oriented programming.
+Internal examination: 15 November 2026.
